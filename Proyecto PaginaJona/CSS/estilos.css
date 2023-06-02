@@ -1,0 +1,56 @@
+html{
+  font-size: 16px;
+  background-color: #059aad;
+}
+
+.imgFondoHeader{
+  background-image: url(../SRC/WEB\ JONA\ DIBUJA\ header.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #059aad;
+}
+
+.main{
+  background-image: url(../SRC/abajo.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #059aad;
+  background-position: bottom;
+}
+
+.main2{
+  background-color: #059aad;
+  background-image: url(../SRC/abajo.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+  overflow: auto;
+}
+
+.btn{
+  z-index: 1;
+  bottom: 30%;
+  width: 60%;
+  background-color: rgb(157, 114, 165);
+  border-color: rgb(157, 114, 165);
+  border-radius: 20px;
+}
+
+.float-start{
+  padding: 30px;
+}
+
+.welcome{
+  font-size: 4rem;
+  font-weight: bold;
+  text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+.carousel-inner img{
+  margin: auto;
+}
+
+.carruselImg {
+  width: auto;
+}
+
